@@ -15,11 +15,11 @@ body {
     rgba(87, 199, 133, 1) 50%,
     rgba(123, 174, 14, 0.751) 100%
   );
-  background-position: top center;
+  background-position: center;
   background-size: 100% auto;
   background-repeat: no-repeat;
   background-color: #121214;
-  margin-bottom: 150%;
+  margin-bottom: 130%;
 }
 
 body * {
